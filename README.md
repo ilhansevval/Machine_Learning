@@ -7,6 +7,8 @@ basic_informations_in_machine_learning codes includes all sections (Introduction
 
 working_on_numpy_library_with_arrays.ipynb gives basic informations about numpy modules how to use with arrays and codes comes from https://colab.research.google.com/github/google/eng-edu/blob/master/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb 
 
+working_on_pandas_library_with_data_frames.ipynb gives basic informations about pandas modules how to make data analysis with data frames , make collobrations arrays to dataframe and codes comes from https://colab.research.google.com/github/google/eng-edu/blob/master/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb
+
 
 
 
