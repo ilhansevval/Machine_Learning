@@ -21,6 +21,7 @@ This notebook represents the tasks and assignments of my machine learning lesson
 ## WEEK 4
 * [K-nearest Neighbors (KNN)](k_nearest__neighbors_(knn).ipynb)
 * [Confusion Matrix and K Nearest Neighboor](confusion_matrix.ipynb)
+* [KNN Notebook](KNN_notebook.ipynb)
 
 
 
