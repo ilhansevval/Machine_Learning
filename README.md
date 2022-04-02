@@ -23,7 +23,10 @@ This notebook represents the tasks and assignments of my machine learning lesson
 * [Confusion Matrix and K Nearest Neighboor](confusion_matrix.ipynb)
 * [KNN Notebook](KNN_notebook.ipynb)
 
-
-
+## WEEK 5
+* [Linear, Multiple and Polynomial Regression Notebook](linear_multiple_polynomial_regression_notebook.ipynb)
+* [Linear Regression](linear_regression.ipynb)
+* [Multiple Linear Regression](multiple_linear_regression.ipynb)
+* [Polynomial linear Regression](polynomial_linear_regression.ipynb)
 
 
