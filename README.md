@@ -13,7 +13,14 @@ This notebook represents the tasks and assignments of my machine learning lesson
 
 ## WEEK 3
 * [Hands on Machine Learning](hands_on_machine_learning_chapter_2_first_four_section)
+* [Digit Dataset](the_digit_dataset.ipynb)
+* [Irıs Dataset](iris_dataset.ipynb)
+* [Plot Randomly Generated Classification Dataset](plot_randomly_generated_classification_dataset.ipynb)
+* [Plot Randomly Generated Multilabel Dataset](plot_randomly_generated_multilabel_dataset.ipynb)
 
+## WEEK 4
+* [K-nearest Neighbors (KNN)](k_nearest__neighbors_(knn).ipynb)
+* [Confusion Matrix and K Nearest Neighboor](confusion_matrix.ipynb)
 
 
 
