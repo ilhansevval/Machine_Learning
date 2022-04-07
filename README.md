@@ -29,4 +29,8 @@ This notebook represents the tasks and assignments of my machine learning lesson
 * [Multiple Linear Regression](multiple_linear_regression.ipynb)
 * [Polynomial linear Regression](polynomial_linear_regression.ipynb)
 
+## WEEK 6
+* [Logistic Regression](logistic_regression.ipynb)
+* [Logistic Regression Notebook](logistic_regression_notebook.ipynb)
+
 
