@@ -33,4 +33,7 @@ This notebook represents the tasks and assignments of my machine learning lesson
 * [Logistic Regression](logistic_regression.ipynb)
 * [Logistic Regression Notebook](logistic_regression_notebook.ipynb)
 
+## CHALLENGE
+* [One to One Classification](one_to_one_classification.ipynb)
+
 
