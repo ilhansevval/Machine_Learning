@@ -33,10 +33,11 @@ This notebook represents the tasks and assignments of my machine learning lesson
 * [Logistic Regression](logistic_regression.ipynb)
 * [Logistic Regression Notebook](logistic_regression_notebook.ipynb)
 
-## WEEK 7
-* [SUPPORT VECTOR MACHINE and NAIVE BAYES ALGORITHMS](svm_and_nv_algorithms.ipynb)
-
 ## CHALLENGE
 * [One to One Classification](one_to_one_classification.ipynb)
+
+## WEEK 7
+* [Support Vector Machine and Naive Bayes Algorithms](svm_and_nv_algorithms.ipynb)
+* [Naive Bayes Notebook](naive_bayes_notebook.ipynb)
 
 
