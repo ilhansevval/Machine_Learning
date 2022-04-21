@@ -1,5 +1,5 @@
 # Machine-Learning
-This notebook represents the tasks and assignments of my machine learning lesson.
+This repository represents the tasks and assignments of my machine learning lesson.
 
 ## WEEK 1
 * [Monty Hall Problem](Monty_Hall_problem.ipynb)
@@ -39,5 +39,9 @@ This notebook represents the tasks and assignments of my machine learning lesson
 ## WEEK 7
 * [Support Vector Machine and Naive Bayes Algorithms](svm_and_nv_algorithms.ipynb)
 * [Support Vector Machine and Naive Bayes Notebook](support_vector_machine_and_naive_bayes_notebook.ipynb)
+
+## WEEK 8
+* [Decision Tree Algorithm](decision_tree_algorithm.ipynb)
+* [Decision Tree Notebook](decision_tree_notebook.ipynb)
 
 
