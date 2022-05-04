@@ -44,4 +44,7 @@ This repository represents the tasks and assignments of my machine learning less
 * [Decision Tree Algorithm](decision_tree_algorithm.ipynb)
 * [Decision Tree Notebook](decision_tree_notebook.ipynb)
 
-
+## WEEK 9
+* [Random Forest Algorithm](random_forest_algorithm.ipynb)
+* [Random Forest Notebook](random_forest_notebook.ipynb)
+* [Supervised Learning Notebook](supervised_learning_notebook.ipynb)
