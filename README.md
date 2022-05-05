@@ -48,3 +48,4 @@ This repository represents the tasks and assignments of my machine learning less
 * [Random Forest Algorithm](random_forest_algorithm.ipynb)
 * [Random Forest Notebook](random_forest_notebook.ipynb)
 * [Supervised Learning Notebook](supervised_learning_notebook.ipynb)
+* [Supervised Learning Heart Disease Notebook](supervised_learning_heart_disease.ipynb)
