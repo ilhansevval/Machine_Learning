@@ -49,3 +49,7 @@ This repository represents the tasks and assignments of my machine learning less
 * [Random Forest Notebook](random_forest_notebook.ipynb)
 * [Supervised Learning Notebook](supervised_learning_notebook.ipynb)
 * [Supervised Learning Heart Disease Notebook](supervised_learning_heart_disease.ipynb)
+
+## WEEK 10
+* [Principle Component Analysis (PCA) Notebook](principal_component_analysis(pca)_notebook.ipynb)
+* [Principle Component Analysis (PCA)](principal_component_analysis_(pca).ipynb)
