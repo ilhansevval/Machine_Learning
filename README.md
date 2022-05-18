@@ -53,3 +53,9 @@ This repository represents the tasks and assignments of my machine learning less
 ## WEEK 10
 * [Principle Component Analysis (PCA) Notebook](principal_component_analysis(pca)_notebook.ipynb)
 * [Principle Component Analysis (PCA)](principal_component_analysis_(pca).ipynb)
+
+# WEEK 11
+* [K Means Notebook](k_means.ipynb)
+* [K-Means](kmeans.ipynb)
+* [Unsupervised Learning Notebook](unsupervised_learning.ipynb)
+
